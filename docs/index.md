@@ -40,6 +40,14 @@ Ici vous publierez la vidéo de votre projet.
 - Une conclusion
 - Si en stockage local : <50mo
 
-<video src="https://youtube.com/shorts/07SANBpG-Es" controls title="Title"  style="width: 100%;"></video>
+<iframe
+  width="315"
+  height="560"
+  src="https://www.youtube.com/embed/07SANBpG-Es"
+  title="YouTube Shorts"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 ---
