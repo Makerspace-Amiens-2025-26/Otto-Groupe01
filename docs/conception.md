@@ -11,6 +11,9 @@ Nous avons réalisé des pièces personnalisées sur Onshape à partir du modèl
 
 Un casque et des pieds reprenant l’apparence d’un chat
 Des bras articulés connectés entre eux
+
+![Conception sur Onshape](images/conception-onshape.png)
+
 Impression 3D
 
 Après avoir finalisé la modélisation, nous avons fabriqué les différentes pièces à l’aide des imprimantes 3D du MakerSpace.
