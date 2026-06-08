@@ -13,16 +13,20 @@ Nous avons d’abord commencé par travailler sur la structure globale du design
 
 2. Conception du casque
 
-Le casque a été entièrement conçu par nos soins. Il a été adapté pour s’intégrer correctement sur le robot tout en respectant les dimensions imposées.
+Le casque a été entièrement conçu par nos soins. Il a été adapté pour s’intégrer correctement sur le robot tout en respectant les dimensions imposées.                        
 ![Casque du robot](https://i.ibb.co/21L7KCMb/casque.png)
 
 3. Modification des pieds
 
 Ensuite, nous avons travaillé sur les pieds du robot. Ceux-ci existaient déjà dans la version de base d’Otto-MKS, mais nous les avons modifiés afin de les adapter à notre design et de respecter les contraintes de taille.
 
+![Pieds du robot](https://i.ibb.co/ZpzsH0C7/feet.png)
+
 4. Création des bras
 
 Nous avons ensuite conçu les bras du robot. Ils ont été entièrement modélisés par notre équipe afin de s’intégrer au reste de la structure.
+
+![Bras du robot](https://i.ibb.co/m5WWGSVQ/bras.png)
 
 5. Adaptation de la rallonge
 
