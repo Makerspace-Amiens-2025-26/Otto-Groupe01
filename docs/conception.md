@@ -14,6 +14,7 @@ Nous avons d’abord commencé par travailler sur la structure globale du design
 2. Conception du casque
 
 Le casque a été entièrement conçu par nos soins. Il a été adapté pour s’intégrer correctement sur le robot tout en respectant les dimensions imposées.
+![Casque du robot](images/casque.png)
 
 3. Modification des pieds
 
