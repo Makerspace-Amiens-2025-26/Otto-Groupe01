@@ -31,15 +31,6 @@ Ici vous publierez le poster de votre projet.
 
 ## Vidéo
 
-Ici vous publierez la vidéo de votre projet. 
-- 1min30 au format vertical
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
-
 <iframe
   width="315"
   height="560"
@@ -47,4 +38,6 @@ Ici vous publierez la vidéo de votre projet.
   title="YouTube Shorts"
   allowfullscreen>
 </iframe>
+
+Emile Cavallie, Camille Taillet et Yann Van Nespen
 ---
