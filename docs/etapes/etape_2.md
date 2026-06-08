@@ -8,7 +8,7 @@ nav_order: 2
 # Assemblage
 
 Après la préparation des matériaux, l'étape suivante est l'assemblage.
-
+[img](https://i.ibb.co/21L7KCMb/casque.png)
 ## Étapes d'Assemblage
 
 1. **Organisation** : Organisez tous les composants préparés.
