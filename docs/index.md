@@ -45,9 +45,6 @@ Ici vous publierez la vidéo de votre projet.
   height="560"
   src="https://www.youtube.com/embed/07SANBpG-Es"
   title="YouTube Shorts"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
-
 ---
